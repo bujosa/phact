@@ -1,0 +1,24 @@
+{
+  "name": "phact",
+  "version": "1.0.0",
+  "description": "This repo is for testing [hardhat](https://hardhat.org/) enviroment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bujosa/phact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bujosa/phact/issues"
+  },
+  "homepage": "https://github.com/bujosa/phact#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.12.6"
+  }
+}
